@@ -39,14 +39,19 @@ Commit your code regularly and use descriptive messages. This helps both you (in
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead.
 
 - [ ] Mention two parts of Express that you learned about this week.
+        R: How to apply middleware and server side routing.
 
 - [ ] Describe Middleware?
+        R: It allows to insert code to take additional actions when specified endpoint is hit. It can be built or be 3rd party.
 
 - [ ] Describe a Resource?
+        R: Piece of data that's being worked on by given code block? 
 
 - [ ] What can the API return to help clients know if a request was successful?
+        R: A response status of 200.
 
 - [ ] How can we partition our application into sub-applications?
+        R: Using server side routing and middleware.
 
 ## Minimum Viable Product
 
